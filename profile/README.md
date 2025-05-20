@@ -1,4 +1,5 @@
 <!-- Banner de portada -->
+
 <p align="center">
   <img src="https://your-cdn.com/walmart-tech-banner.png" alt="Walmart Tech Banner" width="100%" />
 </p>
@@ -33,11 +34,12 @@ Nuestros sistemas conectan más de 10,500 tiendas, millones de productos y cient
 ¿Te entusiasma trabajar a escala planetaria?
 ¿Te apasiona la ingeniería de alto rendimiento?
 
-🎯 **Estamos buscando talento técnico de clase mundial**: ingenieros/as, arquitectos/as, científicos/as de datos, SREs, y más.
+🎯 **Estamos buscando talento técnico de clase mundial**: ingenieros/as, arquitectos/as, científicos/as de datos, Programadores/as SREs, y más.
 
-👉 [Explora oportunidades](https://careers.walmart.com/technology)  
-📬 [Contáctanos](mailto:tech@walmart.com)  
-📣 Síguenos en [LinkedIn](https://www.linkedin.com/company/walmart-global-tech/)
+👉 [Explora oportunidades](https://www.esteesellugar.com/empleosentecnologiawalmart)  
+📬 [Contáctanos](trabajaenwalmartmx@walmart.com)  
+📣 Síguenos en [X](https://x.com/TrabajaenWalMx)
+📣 Síguenos en [Instagram](https://www.instagram.com/trabaja.walmart.mx?)
 
 ---
 
