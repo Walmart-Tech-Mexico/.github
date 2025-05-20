@@ -1,10 +1,6 @@
-<!-- Banner de portada -->
-
-<p align="center">
-  <img src="https://your-cdn.com/walmart-tech-banner.png" alt="Walmart Tech Banner" width="100%" />
-</p>
 
 <h1 align="center">🚀 Walmart Tech | Engineering at Scale</h1>
+<h1 align="center">"Desenredando el código, un commit a la vez</h1>
 
 <p align="center">
   <em>Construimos soluciones tecnológicas que impulsan el retail global para cientos de millones de personas</em>
