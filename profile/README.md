@@ -33,7 +33,7 @@ Nuestros sistemas conectan más de 10,500 tiendas, millones de productos y cient
 🎯 **Estamos buscando talento técnico de clase mundial**: ingenieros/as, arquitectos/as, científicos/as de datos, Programadores/as SREs, y más.
 
 👉 [Explora oportunidades](https://www.esteesellugar.com/empleosentecnologiawalmart)  
-📬 [Contáctanos](trabajaenwalmartmx@walmart.com)  
+📬 [Contáctanos](https://www.esteesellugar.com/empleosentecnologiawalmart)  
 📣 Síguenos en [X](https://x.com/TrabajaenWalMx)
 📣 Síguenos en [Instagram](https://www.instagram.com/trabaja.walmart.mx?)
 
