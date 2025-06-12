@@ -1,7 +1,7 @@
 
 <h1 align="center">🚀 Walmart Tech | Engineering at Scale</h1>
 <h1 align="center">"Desenredando el código, un commit a la vez</h1>
-<h1 align="center">Estos códigos son ejemplos para incentivar el desarrollo de la comunidad tech pero NO forman parte del stack tecnológico de Walmart. 🙂</h1>
+<h2 align="center">Estos códigos son ejemplos para incentivar el desarrollo de la comunidad tech pero NO forman parte del stack tecnológico de Walmart. 🙂</h2>
 
 ---
 
