@@ -3,7 +3,7 @@
 <h1 align="center">"Desenredando el código, un commit a la vez</h1>
 
 <p align="center">
-  <em>Construimos soluciones tecnológicas que impulsan el retail global para cientos de millones de personas</em>
+  <em>Estos códigos son ejemplos para incentivar el desarrollo de la comunidad tech pero NO forman parte del stack tecnológico de Walmart. 🙂**</em>
 </p>
 
 ---
